@@ -1,0 +1,12 @@
+com.example.native_test.app-jetified-window-1.0.0-beta04-0 /Users/jared/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+com.example.native_test.app-jetified-window-java-1.0.0-beta04-1 /Users/jared/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.native_test.app-core-1.6.0-2 /Users/jared/.gradle/caches/transforms-3/2579a7de00054bf46a8dbc332552f622/transformed/core-1.6.0/res
+com.example.native_test.app-jetified-annotation-experimental-1.1.0-3 /Users/jared/.gradle/caches/transforms-3/3f96ca76068ab400b494bc7d541ee256/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.native_test.app-debug-4 /Users/jared/Desktop/Upskilling/Flutter/native_test/android/app/src/debug/res
+com.example.native_test.app-main-5 /Users/jared/Desktop/Upskilling/Flutter/native_test/android/app/src/main/res
+com.example.native_test.app-pngs-6 /Users/jared/Desktop/Upskilling/Flutter/native_test/build/app/generated/res/pngs/debug
+com.example.native_test.app-resValues-7 /Users/jared/Desktop/Upskilling/Flutter/native_test/build/app/generated/res/resValues/debug
+com.example.native_test.app-rs-8 /Users/jared/Desktop/Upskilling/Flutter/native_test/build/app/generated/res/rs/debug
+com.example.native_test.app-mergeDebugResources-9 /Users/jared/Desktop/Upskilling/Flutter/native_test/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.native_test.app-mergeDebugResources-10 /Users/jared/Desktop/Upskilling/Flutter/native_test/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.native_test.app-merged_res-11 /Users/jared/Desktop/Upskilling/Flutter/native_test/build/app/intermediates/merged_res/debug

@@ -1,0 +1,4 @@
+#Sat Apr 13 13:17:54 PST 2024
+base.0=/Users/jared/Desktop/Upskilling/Flutter/native_test/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
